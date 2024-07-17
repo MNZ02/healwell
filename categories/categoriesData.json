@@ -1,0 +1,57 @@
+[
+    {
+      "categoryId": 1,
+      "categoryName": "Pain Relief and Management",
+      "services": [
+        {
+          "id": 1,
+          "name": "Back Pain",
+          "price": 100,
+          "description": "Detailed information about Back Pain relief.",
+          "image": "path/to/back-pain-image.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Shoulder Pain",
+          "price": 100,
+          "description": "Detailed information about Shoulder Pain relief.",
+          "image": "path/to/shoulder-pain-image.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Neck Pain",
+          "price": 100,
+          "description": "Detailed information about Neck Pain relief.",
+          "image": "path/to/neck-pain-image.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Knee Pain",
+            "price": 100,
+            "description": "Detailed information about Knee Pain relief.",
+            "image": "path/to/knee-pain-image.jpg"
+        }
+      ]
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Post-Operation Rehabilitation",
+      "services": [
+        {
+          "id": 4,
+          "name": "Service A",
+          "price": 150,
+          "description": "Detailed information about Service A.",
+          "image": "path/to/service-a-image.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Service B",
+          "price": 150,
+          "description": "Detailed information about Service B.",
+          "image": "path/to/service-b-image.jpg"
+        }
+      ]
+    }
+  ]
+  
